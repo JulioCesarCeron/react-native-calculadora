@@ -5,7 +5,7 @@
 
 # dependencies
 /node_modules
-
+.vscode/
 # misc
 .env.local
 .env.development.local
